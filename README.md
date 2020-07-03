@@ -15,3 +15,6 @@ This is a brief index of the challenges in this project so far.
 2. Odd or Even  
    Determine if a number is odd or even.
 
+3. FizzBuzz
+   Print "Fizz" for multiples of 3 and "Buzz" for multiples of 5.
+
