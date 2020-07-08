@@ -25,3 +25,6 @@ This is a brief index of the challenges in this project so far.
 
 2. HTTP datetime  
    Produce a datetime string in the HTTP datetime format.
+   
+3. Remove URL redirect  
+   Remove Google redirects from search results.
