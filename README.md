@@ -15,13 +15,13 @@ This is a brief index of the challenges in this project so far.
 2. Odd or Even  
    Determine if a number is odd or even.
 
-3. FizzBuzz
+3. FizzBuzz  
    Print "Fizz" for multiples of 3 and "Buzz" for multiples of 5.
 
 ### 02 String Manipulation
 
-1. Percent encoding
+1. Percent encoding  
    Encode a string using the percent encoding scheme.
 
-2. HTTP datetime
+2. HTTP datetime  
    Produce a datetime string in the HTTP datetime format.
