@@ -22,3 +22,6 @@ This is a brief index of the challenges in this project so far.
 
 1. Percent encoding
    Encode a string using the percent encoding scheme.
+
+2. HTTP datetime
+   Produce a datetime string in the HTTP datetime format.
