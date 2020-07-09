@@ -28,3 +28,6 @@ This is a brief index of the challenges in this project so far.
    
 3. Remove URL redirect  
    Remove Google redirects from search results.
+
+4. Caesar cipher  
+   Implement a Caesar cipher for encoding plaintext strings.
